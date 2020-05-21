@@ -1,1 +1,2 @@
 1 - Instabilidade na página da documentação.
+2- problemas para adicionar permissões na chave da api

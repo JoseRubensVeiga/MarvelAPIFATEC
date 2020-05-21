@@ -6,6 +6,10 @@
     <title>MARVEL API</title>
   </head>
   <body>
+
+  <pre>
+  <?php include_once('consulta.php'); ?>
+  </pre>
     <script src="./js/script.js"></script>
   </body>
 </html>
