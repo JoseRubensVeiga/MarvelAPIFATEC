@@ -2,8 +2,8 @@
 
 ## Erros encontrados e solucionados
 
-1 - Instabilidade na página da documentação. -> tentamos seguidas vezes até funcionar
-2 - problemas para adicionar permissões na chave da api -> pegamos uma chave pública de terceiros
+1. Instabilidade na página da documentação **->** tentamos seguidas vezes até funcionar
+2. Problemas para adicionar permissões na chave da api **->** pegamos uma chave pública de terceiros
 
 ## Passo a passo para futuros projetos com a mesma api:
 
