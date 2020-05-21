@@ -7,7 +7,7 @@
 
 ## Passo a passo para futuros projetos com a mesma api:
 
-- Cadastrar-se no developer.marvel.com
+- Cadastrar-se em https://developer.marvel.com/
 - Criar uma chave de acesso
 - Criar um hash md5 com um timestamp, a chave privada e a chave pública.
 - Enviar a requisição com o timestamp, a chave publica e o md5 criptografado para https://gateway.marvel.com/v1/public/.
