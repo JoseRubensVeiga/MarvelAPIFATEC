@@ -2,6 +2,8 @@
 
 include_once('consulta.php');
 
+$characters = getCharacters();
+
 ?>
 
 <!DOCTYPE html>
@@ -32,7 +34,6 @@ include_once('consulta.php');
             <?php endforeach; ?>
             </ul>
         </div>
-        <div></div>
       </div>
     <?php endforeach; ?>
     <?php if(count($characters) == 0): ?>
